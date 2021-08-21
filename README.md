@@ -1,4 +1,7 @@
 # HASTANE_PROJESI
+## Kullanılan Yazılım dilleri / Araçalar
+* C# 
+* MSSQL
 ## Bu Proje C# Kullanılarak
 * hastane giriş ekranı
 * hasta randevu alma 
